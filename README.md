@@ -37,7 +37,7 @@ Here it is recommendend to be conservative and work through smaller amounts of f
 
 <!-- ![example image](header.png) -->
 
-<img src="https://github.com/dossma/audio-rename/blob/main/header.png" width=80% height=80%>
+<img src="https://github.com/dossma/audio-rename/blob/main/header.png" width=90% height=90%>
 
 ## Get started
 
